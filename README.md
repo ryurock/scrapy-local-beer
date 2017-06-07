@@ -1,0 +1,1 @@
+# scrapy-local-beer
